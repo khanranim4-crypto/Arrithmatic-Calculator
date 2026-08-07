@@ -26,7 +26,9 @@ namespace Arrithmatic_Calculator
                 Console.WriteLine("The total is: " + result);
 
                 Console.Read();
-            }
+
+                Console.WriteLine("Arithmetic Calculator");
+            }Console.WriteLine("Thank you for using the calculator.");
         }
     
 }
